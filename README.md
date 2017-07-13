@@ -17,7 +17,7 @@ This project has a strong teaching aim. Specifically, it is used as a training p
 
 The IoTManagerAndroidClient-Master repository contains the complete version of the client application.
 
-## Bibliogrphy ##
+## Bibliography ##
 IoT Manager was designed and proposed throughout several original research papers:
 - Luca Calderoni, Dario Maio, Stefano Rovis: *Deploying a network of smart cameras for traffic monitoring on a “city kernel”.* Expert Systems with Applications, vol. 41, pp. 502-507, February 2014. ISSN 0957-4174
 - Luca Calderoni, Antonio Magnani, Dario Maio: *Coupling a UDOO-based weather station with IoT Manager*. To appear: I-Cities 2017. Proceedings of the 3rd Italian Conference on ICT for Smart Cities & Communities, September 2017.
